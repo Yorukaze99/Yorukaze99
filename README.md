@@ -8,19 +8,10 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- just an rpl student learning code, fixing bugs, and breaking things accidentally.
-- currently focused on web development and curious about cyber security.
-- still learning, still cooking.
 
 
-## 🧠 My Focus Areas
-- Web Development & Software Engineering
-- Exploring Cyber Security and Mobile Dev
-- Building skills, projects, and a better version of myself
 
-
-## 📊 GitHub Stats & Trophies
+GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Yorukaze99">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yorukaze99&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="Yorukaze99's GitHub Stats" />
@@ -35,7 +26,7 @@
 </div>
 
 
-## 🛠️ Languages & Tools
+Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
