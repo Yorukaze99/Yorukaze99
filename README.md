@@ -14,7 +14,7 @@
 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Yorukaze99">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yorukaze99&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="Yorukaze99's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fi-suffix&cache_seconds=7200&layout=compact&theme=synthwave&border_radius=10" alt="Yorukaze99's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Yorukaze99&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Yorukaze99's GitHub Streak" width="49%" />
 </p>
